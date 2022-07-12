@@ -1,0 +1,216 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+
+#header {
+    background-image: url("Graphics/typewriter.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 700px;
+}
+
+#h1 {
+    position: absolute;
+    top: 480px;
+    left: 450px;
+}
+
+#back {
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 30px;
+    text-decoration: none;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* #form {
+    position: absolute;
+    top: 280px;
+    right: 320px;
+    border: solid 2px black;
+    width: 100%;
+} */
+
+#button {
+    font-family: 'Xanh Mono', monospace;
+    background-color: #FFBB33;
+    position: relative;
+    top: 50px;
+    width: 1515px;
+    height: 60px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.button2 {
+    font-family: 'Xanh Mono', monospace;
+    background-color: #FFBB33;
+    position: relative;
+    top: 50px;
+    width: 1515px;
+    height: 60px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#header_przedmiot {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: #48D1CC;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#przedmioty {
+    width: auto;
+    height: 700px;
+    /* border: solid 2px black; */
+}
+
+#polski {
+    position: relative;
+    top: 40px;
+    left: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+}
+
+#img_polski {
+    width: 200px;
+    height: 150px;
+}
+
+#historia {
+    position: relative;
+    top: 50px;
+    left: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+    margin: 10px;
+}
+
+#img_historia {
+    width: 200px;
+    height: 150px;
+}
+
+#bazy_danych {
+    position: relative;
+    top: 60px;
+    left: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+}
+
+#img_bazy_danych {
+    width: 200px;
+    height: 150px;
+}
+
+#bazy_danych {
+    position: relative;
+    top: 60px;
+    left: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+}
+
+#img_bazy_danych {
+    width: 200px;
+    height: 150px;
+}
+
+#matematyka {
+    position: absolute;
+    top: 849px;
+    right: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+}
+
+#img_matematyka {
+    width: 200px;
+    height: 150px;
+}
+
+#INF02 {
+    position: absolute;
+    top: 1061px;
+    right: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+}
+
+#img_inf02 {
+    width: 200px;
+    height: 150px;
+}
+
+#ApStr {
+    position: absolute;
+    top: 1275px;
+    right: 500px;
+    /* border: solid 2px black; */
+    width: 200px;
+}
+
+#img_apk_str {
+    width: 200px;
+    height: 150px;
+}
+
+
+#header_zadanie {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: #48D1CC;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#zadanie {
+    position: relative;
+    top: 40px;
+    left: 200px;
+}
+
+#header_odpowiedz {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: #48D1CC;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#odpowiedz {
+    position: relative;
+    top: 40px;
+    left: 200px;
+}

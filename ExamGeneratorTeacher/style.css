@@ -1,0 +1,52 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url("Graphics/panel_start.jpg");
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+
+#panel_teacher {
+    /* border: solid 2px black; */
+    width: 40%;
+    height: 200px;
+    position: absolute;
+    top: 150px;
+    left: 170px;
+    background-color: #F0F8FF;
+    color: black;
+}
+
+#panel_teacher:hover {
+    background-color: #B0BF1A;
+}
+
+#panel_student {
+    /* border: solid 2px black; */
+    width: 40%;
+    height: 200px;
+    position: absolute;
+    top: 400px;
+    left: 170px;
+    background-color: #F0F8FF;
+    color: black;
+}
+
+#panel_student:hover {
+    background-color: #FF9933;
+}
+
+.h1 {
+    /* border: solid 2px black; */
+    position: relative;
+    top: 60px;
+    left: 10px;
+    text-align: center;
+}
+
+a:hover{
+    text-decoration: none;
+}

@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+
+#header {
+    background-image: url("Graphics/notebooks.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 700px;
+}
+
+#h1 {
+    position: absolute;
+    top: 100px;
+    left: 550px;
+}
+
+#back {
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 30px;
+    text-decoration: none;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header_przedmiot {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: #DEB887;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#polski {
+    background-image: url("Graphics/polski.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 40px;
+    left: 500px;
+}
+
+#historia {
+    background-image: url("Graphics/history.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 105px;
+    left: 500px;
+}
+
+#bazy_danych {
+    background-image: url("Graphics/bazy_danych.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 170px;
+    left: 500px;
+}
+
+#matematyka {
+    background-image: url("Graphics/math.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 849px;
+    right: 500px;
+}
+
+#inf02 {
+    background-image: url("Graphics/IT_networks.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 1061px;
+    right: 500px;
+}
+
+#apk_str {
+    background-image: url("Graphics/Apk_str.jpg");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 1275px;
+    right: 500px;
+}

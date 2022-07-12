@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+
+#header {
+    background-image: url("Graphics/IT_networks.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 700px;
+}
+
+#h1 {
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    color: black;
+}
+
+#back {
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 30px;
+    text-decoration: none;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header_przedmiot {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: 	#00BFFF;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#inf02_odczyt{
+    border: solid 2px black;
+    width: auto;
+    height: 500px;
+    padding: 20px;
+    
+}
+
+table {
+    position: relative;
+    top: 20px;
+    left: 300px;
+}
+
+#header_odpowiedz {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: 	#00BFFF;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#button {
+    font-family: 'Xanh Mono', monospace;
+    background-color: #FFBB33;
+    position: relative;
+    top: 50px;
+    width: 1515px;
+    height: 60px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#odpowiedz {
+    position: relative;
+    top: 40px;
+    left: 200px;
+}

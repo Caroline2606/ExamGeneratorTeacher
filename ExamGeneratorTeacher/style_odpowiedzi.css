@@ -1,0 +1,69 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: white;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 20px;
+}
+
+#header {
+    background-image: url("Graphics/answers.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: 700px;
+}
+
+#h1 {
+    position: absolute;
+    top: 300px;
+    left: 590px;
+}
+
+#back {
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+    height: 30px;
+    text-decoration: none;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header_przedmiot {
+    position: relative;
+    top: 30px;
+    width: auto;
+    height: 40px;
+    background-color: #DEB887;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#zadania {
+    /* border: solid 2px black; */
+    margin-left: 140px;
+    width: 757px;
+    height: 500px;
+}
+
+#odpowiedzi {
+    /* border: solid 2px black; */
+    margin-left: 140px;
+    width: 757px;
+    height: 500px;
+}
+
+#uczen {
+    display: flex;
+}
