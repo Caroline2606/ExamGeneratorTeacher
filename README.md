@@ -1,3 +1,3 @@
 # ExamGeneratorTeacher
 
-# Sources of pictures: GoogleGraphics, pixbay.com, pexels.com
+- Sources of pictures: GoogleGraphics, pixbay.com, pexels.com
